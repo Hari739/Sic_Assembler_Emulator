@@ -3,8 +3,8 @@
 
 ### Contribution
 - Contribution of Shubham ranu : Designing OPTAB.
-- Sushant Gupta : Assembler and their helper classes like ObjectCode,TextRecordClaass,EndRecord,Hearderrecord,Pass1,pass2.
-- Vineet Kumar and Hari Bhushan : ExecEngine Class (loader part and objectcode executer)  & GUI for Simulator.
+- [Sushant Gupta](https://github.com/susg) : Assembler and their helper classes like ObjectCode,TextRecordClaass,EndRecord,Hearderrecord,Pass1,pass2.
+- [Vineet Kumar](https://github.com/vntkumar8) and [Hari Bhushan](https://github.com/Hari739/) : ExecEngine Class (loader part and objectcode executer)  & GUI for Simulator.
 
 
 ### Prerequisites
